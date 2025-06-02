@@ -8,7 +8,7 @@ I'm **Boluwatife Akingbade**, a passionate developer focused on building scalabl
 
 **Frontend Development**
 ```javascript
-JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Shadcn/ui • Bootstrap • SASS • HTML/CSS • Context API • Vite • Jest & React Testing Library
+JavaScript • TypeScript • React.js • Next.js • TailwindCSS • Shadcn/ui • Bootstrap • SASS • HTML/CSS • Context API • Vite • React Testing Library
 ```
 
 **Backend Development**
@@ -25,7 +25,7 @@ RESTful APIs • Redux • Real-time Communication • Authentication • Testin
 
 ### 🌱 Currently Learning
 ```javascript
-Flutter for cross-platform mobile app development
+GraphQl
 ```
 
 ---
